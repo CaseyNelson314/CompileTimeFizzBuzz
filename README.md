@@ -2,6 +2,12 @@
 
 コンパイル時 FizzBuzz
 
+```sh
+git clone https://github.com/CaseyNelson314/CompileTimeFizzBuzz.git
+cd CompileTimeFizzBuzz
+g++ .\main.cpp -o main && ./main
+```
+
 ## 仕組み
 
 次のソースコードはコンパイル時に出力処理の部分のみに展開されます。
