@@ -1,0 +1,2 @@
+# CompileTimeFizzBuzz
+コンパイル時ふぃずばす
