@@ -5,7 +5,7 @@
 ```sh
 git clone https://github.com/CaseyNelson314/CompileTimeFizzBuzz.git
 cd CompileTimeFizzBuzz
-g++ .\main.cpp -o main && ./main
+g++ ./main.cpp -o main && ./main
 ```
 
 ## 仕組み
